@@ -1,2 +1,6 @@
 python-telegram-bot
 python-dotenv
+slack-bolt
+slack-sdk
+whatsapp-api-client-python
+flask

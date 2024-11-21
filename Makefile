@@ -1,7 +1,7 @@
 .PHONY: install format lint test clean run
 
 run:
-	python src/bot.py
+	python src/main.py
 
 run-dev:
 	nodemon -e py --exec make run
