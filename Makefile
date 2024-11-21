@@ -3,6 +3,9 @@
 run:
 	python src/bot.py
 
+run-dev:
+	nodemon -e py --exec make run
+
 install:
 	pip install -r requirements.txt
 
